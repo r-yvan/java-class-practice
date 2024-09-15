@@ -11,7 +11,7 @@ public class Main {
     String password = "Nry369&2008";
     
     String insertSQL = "INSERT INTO students (studentId, firstName, lastName) VALUES (?, ?, ?)";
-    String deleteSQL = "DELETE FROM students WHERE studentId = ?";
+    
     int studentId = 2;
     String firstName = "John";
     String lastName = " Hammond";
