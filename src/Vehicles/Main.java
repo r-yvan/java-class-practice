@@ -5,6 +5,6 @@ public class Main {
         Vehicles toyota = new Toyota();
         Vehicles benz = new Benz();
 
-        benz.playMusic();
+        benz.playMusic("Benz");
     }
 }
